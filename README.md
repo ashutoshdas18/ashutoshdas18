@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **HTML,CSS,JS,Java,NodeJS**
 
-- 📫 How to reach me **ashutoshdas18@gmail.com**
-
 - ⚡ Fun fact **I learn fast.**
 
 <h3 align="left">Connect with me:</h3>
