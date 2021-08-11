@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tanjirosan](https://github.com/ashutoshdas18)
+- 👨‍💻 All of my projects are available at [https://github.com/ashutoshdas18](https://github.com/ashutoshdas18)
 
 - 💬 Ask me about **HTML,CSS,JS,Java,NodeJS**
 
